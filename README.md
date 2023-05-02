@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![mourise pdf](https://user-images.githubusercontent.com/120081893/235622585-45757739-4569-4360-81fb-28f79b17a813.png)
 
 
 ## RESULT:
